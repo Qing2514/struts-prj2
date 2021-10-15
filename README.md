@@ -1,7 +1,7 @@
 # struts-prj2
 The second project for struts
 
-## 第一部分：
+### 第一部分：
 
 1、掌握 Struts2 的 Action 类中自定义方法的使用； 
 
@@ -13,7 +13,7 @@ The second project for struts
 
 5、了解 Struts2 支持的 Action 处理结束后的结果类型。
 
-## 第二部分：
+### 第二部分：
 
 1、了解 Action 接口的作用，理解 ActionSupport 类的作用； 
 
@@ -23,7 +23,7 @@ The second project for struts
 
 4、掌握 Struts2 内置类型转换器的作用和使用方法。
 
-## 第三部分：
+### 第三部分：
 
 1、掌握在 Action 中访问 Servlet API 的四种方法，理解四种方法的区别；
 
